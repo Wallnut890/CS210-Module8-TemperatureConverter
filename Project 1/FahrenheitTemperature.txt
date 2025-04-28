@@ -1,0 +1,6 @@
+Boston 51
+Chicago 49
+Miami 77
+Seattle 53
+Denver 50
+Phoenix 75

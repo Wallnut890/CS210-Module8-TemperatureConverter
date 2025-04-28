@@ -1,0 +1,6 @@
+Boston 10.5556
+Chicago 9.44444
+Miami 25
+Seattle 11.6667
+Denver 10
+Phoenix 23.8889
